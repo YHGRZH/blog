@@ -1,0 +1,44 @@
+/* 首页头图加载 */
+/* 此处background-color可以自行调整，默认是anzhiyu的主题色 */
+/* 若只用到单张图片可以调整为与颜色相近的图片，也可以删掉该css，不影响图片加载 */
+#page-header {
+  background-color: var(--anzhiyu-main)!important;
+}
+.pl-container {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+}
+.pl-img {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 0;
+  transition: opacity 5s;
+  will-change: transform; /* 添加性能优化 */
+  animation: scale 2.5s cubic-bezier(.62,.21,.25,1) 1 both;
+}
+
+@keyframes scale {
+  0% {
+    transform: scale(1.5);
+    opacity: 0;
+  }
+  to {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.pl-visible {
+  opacity: 5;
+}
+
+.pl-blur {
+  /* 小图锯齿多，增加高斯模糊 */
+  filter: blur(50px);
+}

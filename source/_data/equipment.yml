@@ -1,0 +1,37 @@
+- class_name: 好物
+  description: 实物装备推荐
+  tip: 跟 阿HAO 一起享受科技带来的乐趣
+  top_background: https://bu.dusays.com/2023/07/05/64a4c38842b7a.webp
+  good_things:
+    - title: 生产力
+      description: 提升自己生产效率的硬件设备
+      equipment_list:
+        - name: 
+          specification: 拯救者 Y7000 英特尔酷睿i5 15.6英寸（加装闪迪1TB固态，三星16GDDR4内存条）
+          description: 屏幕显示效果好、色彩准确、对比度强、性能强劲、续航优秀。可以用来开发和设计。
+          image: https://p1.lefile.cn/product/adminweb/2019/04/26/qFh9IqsCRKhq6zD0fqUja2t2Y-1463.jpg
+          link: https://item.lenovo.com.cn/product/1004458.html
+        - name: 联想小新PadPro 2021
+          specification: 银白 / 128G
+          description: 晓龙870，买前生产力，买后爱奇艺。
+          image: https://2e.zol-img.com.cn/product/226/616/ceXh10TFTaK06.jpg
+          link: https://uland.taobao.com/sem/tbsearch?refpid=mm_26632258_3504122_32538762&keyword=%E5%B0%8F%E6%96%B0padpro2021&clk1=7ec2359c941cf6db0dde075ac3876c0f&upsId=7ec2359c941cf6db0dde075ac3876c0f&spm=a2e0b.20350158.search.1&pid=mm_26632258_3504122_32538762&union_lens=recoveryid%3A201_33.63.39.198_35002425_1688892114489%3Bprepvid%3A201_33.63.39.198_35002425_1688892114489
+        - name: 一加 9RT 5G 
+          specification: 骇客银/ 256G
+          description: 晓龙888，三星e4高刷屏，索尼IMX766传感器，
+          image: https://img13.360buyimg.com/n1/s450x450_jfs/t1/86507/30/34098/42021/644b3613Faf9a40b0/ee366dd4cc3aafd9.jpg
+          link: https://www.oneplus.com/cn/9rt
+        - name: OPPO Enco Air2
+          specification: 标准版
+          description: 为了凑oppo生态儿买，支持弹窗，音质尚可。
+          image: https://www.oppo.com/content/dam/oppo/product-asset-library/accessory/enco-air2/cn/v1/assets/pc/KV.jpg
+          link: https://www.oppo.com/cn/accessories/oppo-enco-air2/
+    - title: 出行
+      description: 用来出行的实物及设备
+      equipment_list:
+        - name: 小米手环6 NFC
+          specification: 黑色
+          description: 记录我的身体数据，微微智能
+          image: https://img13.360buyimg.com/n1/s450x450_jfs/t1/148180/36/26982/179931/625e8c44E8beb2d8f/eeecf2288db01df6.jpg
+          link: https://item.jd.com/100037745048.html?extension_id=eyJhZCI6IiIsImNoIjoiIiwic2hvcCI6IiIsInNrdSI6IiIsInRzIjoiIiwidW5pcWlkIjoie1wiY2xpY2tfaWRcIjpcIjdjMjg1YWQwLTIzNTMtNGMwMC1iZjI5LWQ1N2UxYTEyYWEzMFwiLFwicG9zX2lkXCI6XCIyNjE3XCIsXCJzaWRcIjpcIjQ0ZDkzYmZhLThiOWYtNDllZC04ZWYyLTZkZWFjYzA5Mjk0MFwiLFwic2t1X2lkXCI6XCIxMDAwMzc3NDUwNDhcIn0ifQ==&jd_pop=7c285ad0-2353-4c00-bf29-d57e1a12aa30
+       

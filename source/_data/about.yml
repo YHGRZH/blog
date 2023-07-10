@@ -1,0 +1,90 @@
+- class_name: 关于ME
+  subtitle: 未来可期，前程似锦✨
+  avatarImg: /img/头像.png
+  name: 杨HAO
+  description: 是一名 数码爱好者、学生、博主（不是）
+  aboutsiteTips:
+    tips: 追求
+    title1: 源于
+    title2: 热爱而去 感受
+    word:
+      - 学习
+      - 生活
+      - 程序
+      - 体验
+  helloAbout: Hello there!
+  skillsTips:
+    tips: 技能
+    title: 开启创造力
+  careers:
+    tips: 生涯
+    title: 无限进步
+    item:
+      - EDU,计算机科学与技术
+    img: https://img02.anheyu.com/adminuploads/1/2022/09/26/6330e9bcc39cc.png
+  statistic:
+    link: /archives
+    text: 文章隧道
+    cover: https://img02.anheyu.com/adminuploads/1/2022/09/23/632d634f8376d.jpg
+  map:
+    title: 我现在住在
+    StrengthenTitle: 甘肃省，甘南
+    background: /img/DT.png
+    backgroundDark: /img/DTD.png
+  selfInfo:
+    selfInfoTips1: 生于
+    selfInfoContentYear: 2001
+    selfInfoTips2: 甘肃工业职业技术学院
+    selfInfoContent2: 计算机科学与技术
+    selfInfoTips3: 现在职业
+    selfInfoContent3: 大三学生👨‍🎓
+  personalities:
+    author_name: 执行官
+    personality_type: ESFJ-A
+    photo_url: /img/T95.jpg
+    personality_img: https://npm.elemecdn.com/anzhiyu-blog@2.0.8/img/svg/ESFJ-A.svg
+    name_url: https://www.16personalities.com/ch/esfj-%E4%BA%BA%E6%A0%BC
+  maxim:
+    maxim_tips: 座右铭
+    maxim_top: 要么死的安然，
+    maxim_bottom: 要么活的灿烂。
+  buff:
+    buff_tips: 特长
+    buff_top: 手指头还算有点长
+    buff_bottom: 倔强 MAX
+  game:
+    game_tips: 用过的系统
+    game_title: 系统
+    game_list:
+      - name: Windows
+        href: https://www.bilibili.com/video/BV1Vp4y1X7QX/?spm_id_from=333.337.search-card.all.click
+        cover: /img/WIN.png
+      - name: linux
+        href: https://www.bilibili.com/video/BV1fm4y1o7wn/?spm_id_from=333.337.search-card.all.click&vd_source=9a34bf32274fd31cb142180d197d0c91
+        cover: /img/LINUX.png
+  comic:
+    comic_tips: 敬佩的人
+    comic_title: 目标
+    comic_list:
+      - name: 埃隆·马斯克
+        href: https://www.bilibili.com/video/BV1Vp4y1X7QX/?spm_id_from=333.337.search-card.all.click
+        cover: /img/al.jpeg
+      - name: 普京
+        href: https://www.bilibili.com/video/BV1fm4y1o7wn/?spm_id_from=333.337.search-card.all.click&vd_source=9a34bf32274fd31cb142180d197d0c91
+        cover: /img/pj.png
+  like:
+    like_tips: 关注偏好
+    like_title: 数码科技
+    like_bg: https://img02.anheyu.com/adminuploads/1/2022/09/24/632f0dd8f33c6.webp
+    like_bottom: 手机、电脑软硬件
+  music:
+    music_tips: 音乐偏好
+    music_title: 王晓天、民谣、华语流行
+    music_bg: https://p2.music.126.net/Mrg1i7DwcwjWBvQPIMt_Mg==/79164837213438.jpg
+    music_link: /music
+  reward_list: 
+    - name: Lazy_Unbox
+      amount: 8.8
+      datatime: 2023-06-8
+   
+  extra: false
